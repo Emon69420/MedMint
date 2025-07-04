@@ -1,5 +1,4 @@
 ## The Story Behind MedMint
- [![HitCount](https://hits.dwyl.com/emon69420/reMedi.svg?style=flat)](http://hits.dwyl.com/emon69420/reMedi)
 It started with a question we couldn’t shake off:
 “What if the drug that could save someone’s life hasn’t been discovered yet, not because it’s impossible, but because the right compound was never guessed correctly by hit and trial, the right target was never predicted, or the compound never passed clinical trials?”
 
