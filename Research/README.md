@@ -28,6 +28,17 @@ packages not in requirements (install them inside conda environment after instal
 -flask (just pip install this)
 -flask-cors (just pip install this)
 
+also install these
+pip install numpy==1.26.4
+pip install pandas
+pip install torch_geometric
+pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
+pip install rdkit==2024.03.1
+pip install tensorboardX
+pip install einops
+pip install ipykernel
+conda install pytorch==2.3.0
+
 If anything still goes wrong, please feel free to message me or drop an issue here and I would guide you through it
 
 ### Local Enviroment - Setting up
