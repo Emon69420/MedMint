@@ -1,4 +1,4 @@
-# reMedi
+# reMedi, The Research Logic Of MedMint
 ### Chainging future of bio-medical research with AI
 
 Note- Open the website link in incognito mode if it doesn't open regularly, Browser security plays around with the website as it does not have a ssl
@@ -9,7 +9,6 @@ reMedi streamlines the most resource-heavy and uncertain stages of early drug di
 
 Drug discovery takes around 10-15 years [Source: DiMasi, J. A., Grabowski, H. G., & Hansen, R. W. (2016). Innovation in the pharmaceutical industry: New estimates of R&D costs. Journal of Health Economics, 47, 20–33.] reMedi accelerates drug discovery by unifying the entire pipeline — from molecule creation to deep biological insight — into a single, intuitive system. It’s not just faster — it’s smarter, more connected, and built for the urgency of real-world healthcare, saving 3-5 years of development time and plans to save more in future iterations
 
-[presentation for reMedi](https://www.canva.com/design/DAGovBtkJQ4/3mdHofHrBqdXPDicauRQEA/edit?utm_content=DAGovBtkJQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Use the example of 2qwo (a protein related to DnaK protein, In pancreatic cancer, the protein DNAJA1 (which interacts with DnaK) has been found to be overexpressed, potentially impacting cancer cell survival and migration. The .cif files from the RCSB PDB database have been already added making generation much faster. Other protein’s compound generation may take 15minutes
 
