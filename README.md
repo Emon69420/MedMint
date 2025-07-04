@@ -1,6 +1,7 @@
 ## The Story Behind MedMint
 
-###Note- Setup research suite separately, and run it separately!!! use its endpoints in the research directory of this folder
+### Note- Setup research suite separately, and run it separately!!! use its endpoints in the research directory of this folder
+
 It started with a question we couldn’t shake off:
 “What if the drug that could save someone’s life hasn’t been discovered yet, not because it’s impossible, but because the right compound was never guessed correctly by hit and trial, the right target was never predicted, or the compound never passed clinical trials?”
 
